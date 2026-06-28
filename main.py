@@ -16,7 +16,7 @@ from telethon.sessions import StringSession
 
 API_ID = int(os.environ.get('API_ID', '37128318'))
 API_HASH = os.environ.get('API_HASH', 'a8edde61cca8b3db8b19d8a4cd8f5901')
-SESSION_STR = os.environ.get('SESSION_STR', '1BVtsOLoBu8Z-eMgle1ViGADeSgDl3gJcrjnvvCxkZHqnNti5qp7qsJUry6sPjGAriVHALfQwRz_2lZuIFSAeHwtH4RMDNcGtR-nA9qgHlzHk-qUCfaJ3qO_f7kmt04m-KYEehCKGn2658LcmemBYYgVVYW9hHeAdkGNr2-CfW-2pLWrwJWVhgrgfaUVNIpubhGVZ1m9BK8fvrKVptemJtYtOaRUatKEB9aX_N9LXxEkfGvyj9oZn_96q2Bw0nhKbV4S6GqbyuqsYeY5WSifco3SUKrCNVawohgLKa2r-RpmCUMhVV_tpM7FT8lRDlif9RkbUFOlN4nimZzTF4wPsYDFV-RQfu8M=')
+SESSION_STR = os.environ.get('SESSION_STR', '1BVtsOIUBu6GSCvHG2RBl3TOyq7ylISTZU9cbmlGozxAOcj960xLSAjWnkSiNd5DVKU4Kp5zvx-ArwKiuF-zK6jju1BqVH1mNcSaC5kwjlUkpAHhlEu5E7IeCDEpH7o0Jewecto-j60Omk3GKyx4baKNQnO6cUb0syI5jycsY_xrwf1-SyOAqrqmL26tp5tOel0Du5bbly30qne1Y0XXIqZ1ms_Sj3uHk8V6zkfOrLxWWF3tLdA9W6Hj8pUw4xRbMq4xH1qjVAwyjo5skqCLjp27qY8xAuAiaTrk74PnhUo1_iAWLQH4SFfa5urhgn_wakkuioivofn6Wx-qbeWc_25MKx9T4PCI=')
 
 TARGET_BOT = os.environ.get('TARGET_BOT', '@apna_coder_key_bot')
 BOT_TOKEN = os.environ.get('BOT_TOKEN', '8838880976:AAFpLIWM6G-ZJvz9uwtIYAEzqz0ETGi9vwo')
